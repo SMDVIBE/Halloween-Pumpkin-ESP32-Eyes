@@ -37,10 +37,6 @@ The eyes move and blink in sync. The **MASTER** generates the animation and send
 
 The wiring is identical for both boards. Use one set for MASTER and repeat it for SLAVE.
 
-<p align="center">
-  <img src="docs/wiring.svg" alt="ESP32-C3 Super Mini to GC9A01 wiring diagram" width="900">
-</p>
-
 | GC9A01 display | ESP32-C3 Super Mini | Description |
 |---|---|---|
 | BLK | 3V3 | Backlight |
