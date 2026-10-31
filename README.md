@@ -31,6 +31,7 @@ The eyes move and blink in sync. The **MASTER** generates the animation and send
 |  | Jumper wires |
 | 1 | Pumpkin / Halloween prop (optional, but highly recommended 🎃) |
 
+
 ## 🔌 Wiring: ESP32-C3 Super Mini → GC9A01
 
 The wiring is identical for both boards. Use one set for MASTER and repeat it for SLAVE.
